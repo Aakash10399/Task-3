@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task-3</string>
+    <string name="bttext">Do It!</string>
+    <string name="task3comp">Task 3 Complete!</string>
+    <string name="appstart">Application Started</string>
+    <string name="snacktext">Second Activity</string>
+</resources>
